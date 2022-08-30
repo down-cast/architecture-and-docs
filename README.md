@@ -1,3 +1,3 @@
-# Data Model
+## Data Model
 
-[User Model](data-model/data-model.drawio.png)
+![User Model](data-model/data-model.drawio.png)
